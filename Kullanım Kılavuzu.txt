@@ -1,0 +1,15 @@
+UP         -> Gaz
+DOWN       -> Fren
+LEFT       -> Sol Sinyal
+RIGHT      -> Sað Sinyal
+LEFT+RIGHT -> Dörtlü
+R          -> Radyo ON
+F          -> Radyo OFF
+E          -> Emniyet Kemeri
+SPACE      -> El Freni
+K          -> Kýsa Far
+U          -> Uzun Far
+O          -> Ön Sis Farý
+L          -> Arka Sis Farý
+B          -> Benzin Doldur
+Q          -> Korna
